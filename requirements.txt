@@ -1,0 +1,6 @@
+torch
+torchvision
+codecarbon
+matplotlib
+numpy
+pandas
