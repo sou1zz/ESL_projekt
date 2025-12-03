@@ -14,11 +14,13 @@ Aplikacja przeprowadza benchmark na zbiorze danych **CIFAR-10**. Mierzymy:
 * **Energię:** - szacowane zużycie prądu (biblioteka CodeCarbon).
 * **Rozmiar modelu:** - przed i po kompresji (INT8).
 
+* Wykresy zawarte w repozytorium przedstawiają wyniki testów przeprowadzone na GPU GTX1060 6GB.
+
 ## Wymagania
 * Python 3.8+
 * Biblioteki z pliku `requirements.txt`
 * (Opcjonalnie) Karta graficzna NVIDIA z obsługą CUDA dla testów GPU.
-* Wykresy zawarte w repozytorium przedstawiają wyniki testów przeprowadzone na GPU GTX1060 6GB.
+
 
 ## Instrukcja uruchomienia
 # 1. Instalacja bibliotek
