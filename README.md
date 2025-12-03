@@ -6,7 +6,7 @@ Celem jest porównanie wydajności modelu MobileNetV2 na CPU i GPU oraz analiza 
 * Karol Golański
 * Tomasz Bartłomowicz
 * Aleksiej Siemionow
-* 
+
 ## Opis projektu
 Aplikacja przeprowadza benchmark na zbiorze danych **CIFAR-10**. Mierzymy:
 * **Latency:** - czas przetwarzania obrazu [ms].
